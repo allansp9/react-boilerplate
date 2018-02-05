@@ -16,6 +16,7 @@
         "args": "none"
       }
     ],
-    "react/jsx-filename-extension": 0
+    "react/jsx-filename-extension": 0,
+    "linebreak-style": ["warn", "windows"]
   }
 }
